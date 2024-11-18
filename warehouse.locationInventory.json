@@ -1,0 +1,672 @@
+[{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea603"
+  },
+  "location_id": 1,
+  "product_id": 1,
+  "quantity": 50
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea604"
+  },
+  "location_id": 1,
+  "product_id": 2,
+  "quantity": 100
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea605"
+  },
+  "location_id": 1,
+  "product_id": 3,
+  "quantity": 20
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea606"
+  },
+  "location_id": 1,
+  "product_id": 4,
+  "quantity": 15
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea607"
+  },
+  "location_id": 1,
+  "product_id": 5,
+  "quantity": 30
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea608"
+  },
+  "location_id": 1,
+  "product_id": 6,
+  "quantity": 40
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea609"
+  },
+  "location_id": 1,
+  "product_id": 7,
+  "quantity": 25
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea60a"
+  },
+  "location_id": 1,
+  "product_id": 8,
+  "quantity": 18
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea60b"
+  },
+  "location_id": 1,
+  "product_id": 9,
+  "quantity": 12
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea60c"
+  },
+  "location_id": 1,
+  "product_id": 10,
+  "quantity": 15
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea60d"
+  },
+  "location_id": 1,
+  "product_id": 11,
+  "quantity": 8
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea60e"
+  },
+  "location_id": 1,
+  "product_id": 12,
+  "quantity": 20
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea60f"
+  },
+  "location_id": 1,
+  "product_id": 13,
+  "quantity": 10
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea610"
+  },
+  "location_id": 1,
+  "product_id": 14,
+  "quantity": 12
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea611"
+  },
+  "location_id": 1,
+  "product_id": 15,
+  "quantity": 15
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea612"
+  },
+  "location_id": 1,
+  "product_id": 16,
+  "quantity": 10
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea613"
+  },
+  "location_id": 1,
+  "product_id": 17,
+  "quantity": 8
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea614"
+  },
+  "location_id": 1,
+  "product_id": 18,
+  "quantity": 12
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea615"
+  },
+  "location_id": 1,
+  "product_id": 19,
+  "quantity": 6
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea616"
+  },
+  "location_id": 1,
+  "product_id": 20,
+  "quantity": 5
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea617"
+  },
+  "location_id": 1,
+  "product_id": 21,
+  "quantity": 4
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea618"
+  },
+  "location_id": 2,
+  "product_id": 1,
+  "quantity": 60
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea619"
+  },
+  "location_id": 2,
+  "product_id": 2,
+  "quantity": 120
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea61a"
+  },
+  "location_id": 2,
+  "product_id": 3,
+  "quantity": 30
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea61b"
+  },
+  "location_id": 2,
+  "product_id": 4,
+  "quantity": 20
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea61c"
+  },
+  "location_id": 2,
+  "product_id": 5,
+  "quantity": 40
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea61d"
+  },
+  "location_id": 2,
+  "product_id": 6,
+  "quantity": 50
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea61e"
+  },
+  "location_id": 2,
+  "product_id": 7,
+  "quantity": 35
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea61f"
+  },
+  "location_id": 2,
+  "product_id": 8,
+  "quantity": 25
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea620"
+  },
+  "location_id": 2,
+  "product_id": 9,
+  "quantity": 18
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea621"
+  },
+  "location_id": 2,
+  "product_id": 10,
+  "quantity": 20
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea622"
+  },
+  "location_id": 2,
+  "product_id": 11,
+  "quantity": 12
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea623"
+  },
+  "location_id": 2,
+  "product_id": 12,
+  "quantity": 30
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea624"
+  },
+  "location_id": 2,
+  "product_id": 13,
+  "quantity": 15
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea625"
+  },
+  "location_id": 2,
+  "product_id": 14,
+  "quantity": 18
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea626"
+  },
+  "location_id": 2,
+  "product_id": 15,
+  "quantity": 20
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea627"
+  },
+  "location_id": 2,
+  "product_id": 16,
+  "quantity": 15
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea628"
+  },
+  "location_id": 2,
+  "product_id": 17,
+  "quantity": 12
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea629"
+  },
+  "location_id": 2,
+  "product_id": 18,
+  "quantity": 18
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea62a"
+  },
+  "location_id": 2,
+  "product_id": 19,
+  "quantity": 8
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea62b"
+  },
+  "location_id": 2,
+  "product_id": 20,
+  "quantity": 7
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea62c"
+  },
+  "location_id": 2,
+  "product_id": 21,
+  "quantity": 6
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea62d"
+  },
+  "location_id": 3,
+  "product_id": 1,
+  "quantity": 40
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea62e"
+  },
+  "location_id": 3,
+  "product_id": 2,
+  "quantity": 80
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea62f"
+  },
+  "location_id": 3,
+  "product_id": 3,
+  "quantity": 15
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea630"
+  },
+  "location_id": 3,
+  "product_id": 4,
+  "quantity": 10
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea631"
+  },
+  "location_id": 3,
+  "product_id": 5,
+  "quantity": 25
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea632"
+  },
+  "location_id": 3,
+  "product_id": 6,
+  "quantity": 30
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea633"
+  },
+  "location_id": 3,
+  "product_id": 7,
+  "quantity": 20
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea634"
+  },
+  "location_id": 3,
+  "product_id": 8,
+  "quantity": 15
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea635"
+  },
+  "location_id": 3,
+  "product_id": 9,
+  "quantity": 10
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea636"
+  },
+  "location_id": 3,
+  "product_id": 10,
+  "quantity": 12
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea637"
+  },
+  "location_id": 3,
+  "product_id": 11,
+  "quantity": 7
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea638"
+  },
+  "location_id": 3,
+  "product_id": 12,
+  "quantity": 15
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea639"
+  },
+  "location_id": 3,
+  "product_id": 13,
+  "quantity": 8
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea63a"
+  },
+  "location_id": 3,
+  "product_id": 14,
+  "quantity": 10
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea63b"
+  },
+  "location_id": 3,
+  "product_id": 15,
+  "quantity": 12
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea63c"
+  },
+  "location_id": 3,
+  "product_id": 16,
+  "quantity": 8
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea63d"
+  },
+  "location_id": 3,
+  "product_id": 17,
+  "quantity": 6
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea63e"
+  },
+  "location_id": 3,
+  "product_id": 18,
+  "quantity": 10
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea63f"
+  },
+  "location_id": 3,
+  "product_id": 19,
+  "quantity": 4
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea640"
+  },
+  "location_id": 3,
+  "product_id": 20,
+  "quantity": 3
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea641"
+  },
+  "location_id": 3,
+  "product_id": 21,
+  "quantity": 2
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea642"
+  },
+  "location_id": 4,
+  "product_id": 1,
+  "quantity": 50
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea643"
+  },
+  "location_id": 4,
+  "product_id": 2,
+  "quantity": 100
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea644"
+  },
+  "location_id": 4,
+  "product_id": 3,
+  "quantity": 20
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea645"
+  },
+  "location_id": 4,
+  "product_id": 4,
+  "quantity": 15
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea646"
+  },
+  "location_id": 4,
+  "product_id": 5,
+  "quantity": 30
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea647"
+  },
+  "location_id": 4,
+  "product_id": 6,
+  "quantity": 40
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea648"
+  },
+  "location_id": 4,
+  "product_id": 7,
+  "quantity": 25
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea649"
+  },
+  "location_id": 4,
+  "product_id": 8,
+  "quantity": 18
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea64a"
+  },
+  "location_id": 4,
+  "product_id": 9,
+  "quantity": 12
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea64b"
+  },
+  "location_id": 4,
+  "product_id": 10,
+  "quantity": 15
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea64c"
+  },
+  "location_id": 4,
+  "product_id": 11,
+  "quantity": 8
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea64d"
+  },
+  "location_id": 4,
+  "product_id": 12,
+  "quantity": 20
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea64e"
+  },
+  "location_id": 4,
+  "product_id": 13,
+  "quantity": 10
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea64f"
+  },
+  "location_id": 4,
+  "product_id": 14,
+  "quantity": 12
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea650"
+  },
+  "location_id": 4,
+  "product_id": 15,
+  "quantity": 15
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea651"
+  },
+  "location_id": 4,
+  "product_id": 16,
+  "quantity": 10
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea652"
+  },
+  "location_id": 4,
+  "product_id": 17,
+  "quantity": 8
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea653"
+  },
+  "location_id": 4,
+  "product_id": 18,
+  "quantity": 12
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea654"
+  },
+  "location_id": 4,
+  "product_id": 19,
+  "quantity": 6
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea655"
+  },
+  "location_id": 4,
+  "product_id": 20,
+  "quantity": 5
+},
+{
+  "_id": {
+    "$oid": "67206cc58ca5d8213ddea656"
+  },
+  "location_id": 4,
+  "product_id": 21,
+  "quantity": 4
+}]

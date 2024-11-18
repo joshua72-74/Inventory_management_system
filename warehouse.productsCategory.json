@@ -1,0 +1,746 @@
+[{
+  "_id": {
+    "$oid": "67206acb8ca5d8213ddea5eb"
+  },
+  "product_id": 1,
+  "category": "Laptop",
+  "description": "High-performance laptop with 16GB RAM, 1TB SSD, and a powerful processor.",
+  "images": [
+    "https://example.com/images/laptop1.jpg",
+    "https://example.com/images/laptop2.jpg"
+  ],
+  "features": [
+    "Intel Core i7 processor",
+    "16GB DDR4 RAM",
+    "1TB NVMe SSD",
+    "15.6-inch Full HD display",
+    "Backlit keyboard"
+  ],
+  "specifications": {
+    "processor": "Intel Core i7",
+    "ram": "16GB",
+    "storage": "1TB SSD",
+    "display": "15.6-inch Full HD",
+    "operating_system": "Windows 11"
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "comment": "Excellent laptop, highly recommended!"
+    },
+    {
+      "rating": 5,
+      "comment": "Fast and efficient, great for work and entertainment."
+    }
+  ],
+  "related_products": [
+    2,
+    3,
+    4
+  ]
+},
+{
+  "_id": {
+    "$oid": "67206acb8ca5d8213ddea5ec"
+  },
+  "product_id": 2,
+  "category": "Smartphone",
+  "description": "Latest Android smartphone with a stunning AMOLED display and a powerful camera system.",
+  "images": [
+    "https://example.com/images/smartphone1.jpg",
+    "https://example.com/images/smartphone2.jpg"
+  ],
+  "features": [
+    "Qualcomm Snapdragon 888 processor",
+    "12GB RAM",
+    "256GB storage",
+    "6.7-inch AMOLED display",
+    "50MP triple-camera system"
+  ],
+  "specifications": {
+    "processor": "Qualcomm Snapdragon 888",
+    "ram": "12GB",
+    "storage": "256GB",
+    "display": "6.7-inch AMOLED",
+    "battery": "5000mAh"
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "comment": "Great phone with an amazing camera."
+    }
+  ],
+  "related_products": [
+    1,
+    3,
+    5
+  ]
+},
+{
+  "_id": {
+    "$oid": "67206acb8ca5d8213ddea5ed"
+  },
+  "product_id": 3,
+  "category": "Tablet",
+  "description": "Lightweight and portable tablet with a bright display and long battery life.",
+  "images": [
+    "https://example.com/images/tablet1.jpg",
+    "https://example.com/images/tablet2.jpg"
+  ],
+  "features": [
+    "Octa-core processor",
+    "4GB RAM",
+    "64GB storage",
+    "10.1-inch IPS LCD display",
+    "8MP rear camera, 5MP front camera"
+  ],
+  "specifications": {
+    "processor": "Octa-core",
+    "ram": "4GB",
+    "storage": "64GB",
+    "display": "10.1-inch IPS LCD",
+    "battery": "7000mAh"
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "comment": "Perfect for reading, browsing, and light gaming."
+    },
+    {
+      "rating": 5,
+      "comment": "Excellent value for money."
+    }
+  ],
+  "related_products": [
+    1,
+    2,
+    4
+  ]
+},
+{
+  "_id": {
+    "$oid": "67206acb8ca5d8213ddea5ee"
+  },
+  "product_id": 4,
+  "category": "Headphones",
+  "description": "High-quality headphones with noise cancellation and a comfortable fit.",
+  "images": [
+    "https://example.com/images/headphones1.jpg",
+    "https://example.com/images/headphones2.jpg"
+  ],
+  "features": [
+    "Active noise cancellation",
+    "Bluetooth 5.0",
+    "Up to 30 hours of battery life",
+    "Comfortable earcups"
+  ],
+  "specifications": {
+    "connectivity": "Bluetooth",
+    "battery": "Up to 30 hours",
+    "driver_size": "40mm"
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "comment": "Great sound quality and noise cancellation."
+    }
+  ],
+  "related_products": [
+    1,
+    2,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "67206acb8ca5d8213ddea5ef"
+  },
+  "product_id": 5,
+  "category": "Keyboard",
+  "description": "Mechanical gaming keyboard with RGB lighting and responsive keys.",
+  "images": [
+    "https://example.com/images/keyboard1.jpg",
+    "https://example.com/images/keyboard2.jpg"
+  ],
+  "features": [
+    "Mechanical switches",
+    "RGB backlighting",
+    "Anti-ghosting technology",
+    "Dedicated multimedia keys"
+  ],
+  "specifications": {
+    "switch_type": "Cherry MX Red",
+    "layout": "Full-size",
+    "backlighting": "RGB"
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "comment": "Excellent typing experience and great for gaming."
+    }
+  ],
+  "related_products": [
+    1,
+    2,
+    3,
+    6
+  ]
+},
+{
+  "_id": {
+    "$oid": "67206acb8ca5d8213ddea5f0"
+  },
+  "product_id": 6,
+  "category": "Mouse",
+  "description": "Wireless optical mouse with a comfortable grip and high DPI for precise tracking.",
+  "images": [
+    "https://example.com/images/mouse1.jpg",
+    "https://example.com/images/mouse2.jpg"
+  ],
+  "features": [
+    "Wireless connectivity",
+    "High DPI sensor",
+    "Ergonomic design",
+    "Adjustable DPI settings"
+  ],
+  "specifications": {
+    "connectivity": "Wireless",
+    "DPI": "8000",
+    "buttons": "6"
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "comment": "Smooth tracking and comfortable to use."
+    }
+  ],
+  "related_products": [
+    1,
+    2,
+    3,
+    5,
+    7
+  ]
+},
+{
+  "_id": {
+    "$oid": "67206acb8ca5d8213ddea5f1"
+  },
+  "product_id": 7,
+  "category": "Monitor",
+  "description": "27-inch QHD monitor with a wide viewing angle and vibrant colors.",
+  "images": [
+    "https://example.com/images/monitor1.jpg",
+    "https://example.com/images/monitor2.jpg"
+  ],
+  "features": [
+    "QHD resolution",
+    "IPS panel",
+    "Thin bezels",
+    "Adjustable stand"
+  ],
+  "specifications": {
+    "size": "27-inch",
+    "resolution": "2560x1440",
+    "refresh_rate": "75Hz"
+  },
+  "reviews": [
+    {
+      "rating": 5,
+      "comment": "Amazing monitor for work and gaming."
+    }
+  ],
+  "related_products": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    8
+  ]
+},
+{
+  "_id": {
+    "$oid": "67206acb8ca5d8213ddea5f2"
+  },
+  "product_id": 8,
+  "category": "Printer",
+  "description": "All-in-one inkjet printer with wireless connectivity and automatic document feeder.",
+  "images": [
+    "https://example.com/images/printer1.jpg",
+    "https://example.com/images/printer2.jpg"
+  ],
+  "features": [
+    "Wireless printing",
+    "Automatic document feeder",
+    "Print, scan, and copy",
+    "Mobile printing support"
+  ],
+  "specifications": {
+    "type": "Inkjet",
+    "resolution": "4800x1200 dpi",
+    "connectivity": "Wireless, USB"
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "comment": "Great for home use and printing photos."
+    }
+  ],
+  "related_products": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    7
+  ]
+},
+{
+  "_id": {
+    "$oid": "67206acb8ca5d8213ddea5f3"
+  },
+  "product_id": 9,
+  "category": "Sofa",
+  "description": "Comfortable leather sofa with adjustable back and seating for three.",
+  "images": [
+    "https://example.com/images/sofa1.jpg",
+    "https://example.com/images/sofa2.jpg"
+  ],
+  "features": [
+    "Leather upholstery",
+    "Adjustable back",
+    "Seating for three",
+    "Modern design"
+  ],
+  "specifications": {
+    "material": "Leather",
+    "color": "Brown",
+    "size": "72 inches"
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "comment": "Very comfortable and stylish sofa."
+    }
+  ],
+  "related_products": [
+    10,
+    11
+  ]
+},
+{
+  "_id": {
+    "$oid": "67206acb8ca5d8213ddea5f4"
+  },
+  "product_id": 10,
+  "category": "Chair",
+  "description": "Ergonomic office chair with adjustable height and lumbar support.",
+  "images": [
+    "https://example.com/images/chair1.jpg",
+    "https://example.com/images/chair2.jpg"
+  ],
+  "features": [
+    "Adjustable height",
+    "Lumbar support",
+    "Mesh back",
+    "Swivel base"
+  ],
+  "specifications": {
+    "material": "Mesh",
+    "color": "Black",
+    "weight_capacity": "250 lbs"
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "comment": "Comfortable and supportive for long hours of work."
+    }
+  ],
+  "related_products": [
+    9,
+    11
+  ]
+},
+{
+  "_id": {
+    "$oid": "67206acb8ca5d8213ddea5f5"
+  },
+  "product_id": 11,
+  "category": "Table",
+  "description": "Solid wood dining table with a classic design and seating for six.",
+  "images": [
+    "https://example.com/images/table1.jpg",
+    "https://example.com/images/table2.jpg"
+  ],
+  "features": [
+    "Solid wood construction",
+    "Classic design",
+    "Seating for six",
+    "Durable finish"
+  ],
+  "specifications": {
+    "material": "Oak",
+    "color": "Natural",
+    "size": "60 inches"
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "comment": "Beautiful table, perfect for family gatherings."
+    }
+  ],
+  "related_products": [
+    9,
+    10
+  ]
+},
+{
+  "_id": {
+    "$oid": "67206acb8ca5d8213ddea5f6"
+  },
+  "product_id": 12,
+  "category": "Bed",
+  "description": "Queen-size bed with a comfortable mattress and headboard.",
+  "images": [
+    "https://example.com/images/bed1.jpg",
+    "https://example.com/images/bed2.jpg"
+  ],
+  "features": [
+    "Queen-size mattress",
+    "Comfortable headboard",
+    "Wooden frame",
+    "Durable construction"
+  ],
+  "specifications": {
+    "size": "Queen",
+    "material": "Wood",
+    "color": "White"
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "comment": "Very comfortable bed with a nice headboard."
+    }
+  ],
+  "related_products": [
+    13,
+    14,
+    15
+  ]
+},
+{
+  "_id": {
+    "$oid": "67206acb8ca5d8213ddea5f7"
+  },
+  "product_id": 13,
+  "category": "Lamp",
+  "description": "Modern table lamp with a stylish design and adjustable brightness.",
+  "images": [
+    "https://example.com/images/lamp1.jpg",
+    "https://example.com/images/lamp2.jpg"
+  ],
+  "features": [
+    "Modern design",
+    "Adjustable brightness",
+    "Energy-efficient LED bulb",
+    "Durable construction"
+  ],
+  "specifications": {
+    "style": "Modern",
+    "color": "Black",
+    "bulb_type": "LED"
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "comment": "Great lamp, adds a touch of style to any room."
+    }
+  ],
+  "related_products": [
+    12,
+    14,
+    15
+  ]
+},
+{
+  "_id": {
+    "$oid": "67206acb8ca5d8213ddea5f8"
+  },
+  "product_id": 14,
+  "category": "Ceiling Fan",
+  "description": "High-speed ceiling fan with a remote control and energy-efficient operation.",
+  "images": [
+    "https://example.com/images/ceiling_fan1.jpg",
+    "https://example.com/images/ceiling_fan2.jpg"
+  ],
+  "features": [
+    "High-speed operation",
+    "Remote control",
+    "Energy-efficient",
+    "Silent operation"
+  ],
+  "specifications": {
+    "blade_span": "52 inches",
+    "power_consumption": "75 watts",
+    "speed_settings": "3"
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "comment": "Keeps the room cool and quiet."
+    }
+  ],
+  "related_products": [
+    12,
+    13,
+    15
+  ]
+},
+{
+  "_id": {
+    "$oid": "67206acb8ca5d8213ddea5f9"
+  },
+  "product_id": 15,
+  "category": "Refrigerator",
+  "description": "Large refrigerator with multiple shelves and drawers, ideal for families.",
+  "images": [
+    "https://example.com/images/refrigerator1.jpg",
+    "https://example.com/images/refrigerator2.jpg"
+  ],
+  "features": [
+    "Large capacity",
+    "Multiple shelves and drawers",
+    "Energy-efficient",
+    "Ice and water dispenser"
+  ],
+  "specifications": {
+    "capacity": "25 cubic feet",
+    "energy_rating": "Energy Star",
+    "features": "Ice and water dispenser"
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "comment": "Spacious and efficient, keeps food fresh for longer."
+    }
+  ],
+  "related_products": [
+    12,
+    13,
+    14,
+    16,
+    17,
+    18
+  ]
+},
+{
+  "_id": {
+    "$oid": "67206acb8ca5d8213ddea5fa"
+  },
+  "product_id": 16,
+  "category": "Washing Machine",
+  "description": "Fully automatic washing machine with multiple wash cycles and a large capacity.",
+  "images": [
+    "https://example.com/images/washing_machine1.jpg",
+    "https://example.com/images/washing_machine2.jpg"
+  ],
+  "features": [
+    "Fully automatic operation",
+    "Multiple wash cycles",
+    "Large capacity",
+    "Energy-efficient"
+  ],
+  "specifications": {
+    "capacity": "18 lbs",
+    "wash_cycles": "10",
+    "energy_rating": "Energy Star"
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "comment": "Great washing machine, cleans clothes effectively."
+    }
+  ],
+  "related_products": [
+    12,
+    13,
+    14,
+    15,
+    17,
+    18
+  ]
+},
+{
+  "_id": {
+    "$oid": "67206acb8ca5d8213ddea5fb"
+  },
+  "product_id": 17,
+  "category": "Microwave Oven",
+  "description": "Microwave oven with grill and convection functions for versatile cooking.",
+  "images": [
+    "https://example.com/images/microwave_oven1.jpg",
+    "https://example.com/images/microwave_oven2.jpg"
+  ],
+  "features": [
+    "Microwave, grill, and convection functions",
+    "Digital controls",
+    "Automatic defrost",
+    "Large capacity"
+  ],
+  "specifications": {
+    "capacity": "1.5 cubic feet",
+    "power": "1000 watts",
+    "functions": "Microwave, grill, convection"
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "comment": "Great for reheating and cooking meals."
+    }
+  ],
+  "related_products": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    18
+  ]
+},
+{
+  "_id": {
+    "$oid": "67206acb8ca5d8213ddea5fc"
+  },
+  "product_id": 18,
+  "category": "Water Purifier",
+  "description": "RO water purifier with multiple stages of filtration for clean and safe drinking water.",
+  "images": [
+    "https://example.com/images/water_purifier1.jpg",
+    "https://example.com/images/water_purifier2.jpg"
+  ],
+  "features": [
+    "RO filtration technology",
+    "Multiple stages of filtration",
+    "TDS control",
+    "Easy to install and maintain"
+  ],
+  "specifications": {
+    "filtration_technology": "RO",
+    "TDS_removal": "99.9%",
+    "capacity": "10 liters"
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "comment": "Excellent water purifier, provides clean and safe water."
+    }
+  ],
+  "related_products": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ]
+},
+{
+  "_id": {
+    "$oid": "67206acb8ca5d8213ddea5fd"
+  },
+  "product_id": 19,
+  "category": "Air Conditioner",
+  "description": "Energy-efficient air conditioner with multiple cooling modes and a quiet operation.",
+  "images": [
+    "https://example.com/images/air_conditioner1.jpg",
+    "https://example.com/images/air_conditioner2.jpg"
+  ],
+  "features": [
+    "Energy-efficient",
+    "Multiple cooling modes",
+    "Quiet operation",
+    "Remote control"
+  ],
+  "specifications": {
+    "type": "Split",
+    "capacity": "1.5 ton",
+    "energy_rating": "5-star"
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "comment": "Keeps the room cool and comfortable."
+    }
+  ],
+  "related_products": [
+    20,
+    21
+  ]
+},
+{
+  "_id": {
+    "$oid": "67206acb8ca5d8213ddea5fe"
+  },
+  "product_id": 20,
+  "category": "Television",
+  "description": "4K Smart TV with a large screen size and stunning picture quality.",
+  "images": [
+    "https://example.com/images/tv1.jpg",
+    "https://example.com/images/tv2.jpg"
+  ],
+  "features": [
+    "4K resolution",
+    "Smart TV features",
+    "HDR support",
+    "Built-in speakers"
+  ],
+  "specifications": {
+    "size": "55 inches",
+    "resolution": "3840x2160",
+    "smart_features": "Netflix, YouTube, Amazon Prime"
+  },
+  "reviews": [
+    {
+      "rating": 5,
+      "comment": "Amazing picture quality and great smart features."
+    }
+  ],
+  "related_products": [
+    19,
+    21
+  ]
+},
+{
+  "_id": {
+    "$oid": "67206acb8ca5d8213ddea5ff"
+  },
+  "product_id": 21,
+  "category": "Gaming Console",
+  "description": "High-performance gaming console with a wide selection of games and online gaming features.",
+  "images": [
+    "https://example.com/images/console1.jpg",
+    "https://example.com/images/console2.jpg"
+  ],
+  "features": [
+    "High-performance processor",
+    "4K graphics",
+    "Online gaming features",
+    "Exclusive game library"
+  ],
+  "specifications": {
+    "processor": "AMD Ryzen",
+    "graphics": "4K",
+    "storage": "1TB SSD"
+  },
+  "reviews": [
+    {
+      "rating": 4.5,
+      "comment": "Great console for gamers of all levels."
+    }
+  ],
+  "related_products": [
+    19,
+    20
+  ]
+}]
